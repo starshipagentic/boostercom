@@ -1,2 +1,3 @@
 # boostercom
-Placeholder repo for the boostercom project
+
+Placeholder package. The `boostercom` name is reserved for a future project.
